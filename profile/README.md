@@ -15,5 +15,5 @@ Algunos de nuestros proyectos son:
 - Seguirnos en nuestro grupo de Telegram, donde compartimos noticias, recursos y eventos relacionados con el desarrollo web.
 - Enviar un correo electrónico a brianpl990227@gmail.com con tu nombre, experiencia (no importa que no tengas) y motivación (sí importa que tengas) para unirte a nosotros.
 
-Crear un pull request en nuestro repositorio1 con tu propuesta de proyecto o mejora.
+Crear un pull request en nuestro repositorio con tu propuesta de proyecto o mejora.
 ¡Te esperamos! 😊
