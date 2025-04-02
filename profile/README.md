@@ -1,4 +1,4 @@
-# <h1 align="center">Desarrolladores .Net</h1>
+# <h1 align="center">DotNet Desarrolladores</h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Logo Desarrolladores .Net" width="200"/>
